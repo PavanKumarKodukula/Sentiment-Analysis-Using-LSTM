@@ -20,6 +20,8 @@ Custom input prediction function
 📁 Dataset
 Dataset: Sentiment140
 
+Link: https://www.kaggle.com/datasets/ferno2/training1600000processednoemoticoncsv
+
 File used: training1600000processednoemoticon.csv
 
 Format: Each row contains sentiment label, tweet ID, date, query, user, and tweet text

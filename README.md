@@ -49,9 +49,3 @@ def predict_sentiment(text):
 Example:
 
 predict_sentiment("I love this product!")  # Output: Positive
-
-🔍 Example Output
-Tweet: 'I love this!' → Sentiment: Positive
-Tweet: 'This is terrible.' → Sentiment: Negative
-Tweet: 'Absolutely horrible experience' → Sentiment: Negative
-Tweet: 'What a great movie!' → Sentiment: Positive
